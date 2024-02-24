@@ -1,3 +1,14 @@
-# HelloGIT
+# HelloLearning
 
-Hello this is the first time am trying something on GITHUB
+The idea is to learn about the concepts of AI. 
+
+The plan is as follows 
+Prerequisites 
+1. Linear Algebra
+2. Matrix
+3. Calculas
+4. Numpy
+5. Pandas
+6. Scikit
+7. Keras
+8. TensorFlow
